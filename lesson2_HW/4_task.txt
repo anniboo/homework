@@ -1,0 +1,1 @@
+annibo@annibo-VirtualBox:/var/lib/mysql$ mysqldump --where="true limit 100" mysql help_keyword > key.sql 
